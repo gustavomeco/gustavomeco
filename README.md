@@ -1,7 +1,6 @@
 # Hey 👋
 
-My name is Gustavo,I'm from Brazil.I'm learning HTML,CSS and JS.
-I like to solve problems that's why I chose this area. 🖥️
+My name is Gustavo, and I’m from Brazil. I’m currently learning HTML, CSS, and JavaScript. I enjoy solving problems, and that’s why I chose this field. 🖥️
 
 # Skills📚
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="30px" alt="HTML" align="left" style="padding-right: 10px;"/>
